@@ -1,0 +1,1 @@
+# figma-global-app
